@@ -1,0 +1,38 @@
+name: Create Bookmarks File
+
+on:
+  push:
+    paths:
+      - 'README.md'
+    branches:
+      - main
+      
+permissions:
+  contents: write
+
+jobs:
+  create-bookmarks:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.x
+
+    - name: Create bookmarks
+      run: |
+        python .github/workflows/create_bookmarks.py
+
+    - name: Commit and push bookmarks
+      run: |
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add bookmarks.html
+        git commit -m "Create bookmarks file from README"
+        git push https://x-access-token:$GITHUB_TOKEN@github.com/st0pp3r/Supreme-SOC-Analyst.git
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
