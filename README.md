@@ -6,29 +6,30 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 ## Contents
 
 - [Event Log References](#event-log-references) - Online vendor documentation and references for event logs. 
-- [Sandboxes](#sandboxes)  
-- [IOC Lookups](#ioc-lookups)  
-- [Emails](#emails)  
-- [EXE Lookup](#exe-lookup)  
-- [Lookup Services](#lookup-services)  
--  [Fingerprinting](#fingerprinting)  
-- [Scanning](#scanning)  
-- [URL Scan](#url-scan)  
-- [DNS](#dns)  
-- [MAC Lookup](#mac-lookup)  
-- [ASN](#asn)  
-- [Browser Extension](#browser-extension)  
-- [Hash](#hash)  
-- [Misc Tools](#misc-tools)  
-- [Resources](#resources)  
-- [Blogs](#blogs)  
-- [Newsletters](#newsletters)  
-- [Good Reads](#good-reads)  
-- [Books](#books)  
-- [Training](#training)  
-- [Podcasts](#podcasts)  
-- [Twitter/X](#twitterx)  
-- [Interview Questions](#interview-questions)  
+- [Sandboxes](#sandboxes) - Online sandboxes to analyze malware behavior safely.  
+- [IOC Lookups](#ioc-lookups) - Services for checking indicators of compromise (IOCs) like hashes, domains, and IPs.  
+- [Emails](#emails) - Tools for investigating email headers.
+- [EXE Lookup](#exe-lookup) - Resources for checking executables..  
+- [Lookup Services](#lookup-services) - General lookup tools for domains, IPs, and other artifacts.  
+- [Fingerprinting](#fingerprinting) - Online fingerprinting services.  
+- [Scanning](#scanning) - Network scanning tools for reconnaissance.  
+- [URL Scan](#url-scan) - Services to analyze URLs and inspect web content.  
+- [DNS](#dns) - Tools for DNS resolution and tracking domain history.  
+- [MAC Lookup](#mac-lookup) - Lookup services for MAC addresses to identify device manufacturers.  
+- [ASN](#asn) - Tools for finding autonomous system numbers (ASNs) and related IP allocations.  
+- [Browser Extension](#browser-extension) - Security-focused browser add-ons for analysis and protection.  
+- [Hash](#hash) - Hashing tools.  
+- [Misc Tools](#misc-tools) - Various cybersecurity utilities that don’t fit into a specific category.  
+- [Resources](#resources) - Collections of useful cybersecurity websites, documents, and reference materials.  
+- [Blogs](#blogs) - Security-focused blogs with insights, analysis, and threat intelligence.  
+- [Newsletters](#newsletters) - Regular updates and summaries of cybersecurity trends and incidents.  
+- [Good Reads](#good-reads) - Interesting articles and reports related to cybersecurity.  
+- [Books](#books) - Recommended reading on cybersecurity, hacking, and digital forensics.  
+- [Training](#training) - Online courses, certifications, and training platforms for cybersecurity skills. 
+- [Podcasts](#podcasts) - Audio discussions on cybersecurity, hacking, and threat intelligence.  
+- [Twitter/X](#twitterx) - Security experts, researchers, and threat intelligence feeds to follow.  
+- [Interview Questions](#interview-questions) - Common cybersecurity interview questions and preparation resources.
+
 
 ### Sandboxes
 - [VirusTotal](https://www.virustotal.com/gui/home/search) - Analyze suspicious files, domains, IPs and URLs to detect malware and other breaches.
