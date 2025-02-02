@@ -26,7 +26,7 @@ def parse_markdown_to_links(markdown_file):
         if line.startswith("#"):
             # Extract section title from Markdown headers
             current_section = line.lstrip("# ").strip()
-            if not(current_section.startswith("Supreme Detection Engineer")) and current_section not in ["Contents"]:
+            if not(current_section.startswith("Awesome SOC Analyst")) and current_section not in ["Contents"]:
                 links_by_section[current_section] = []
         elif line.startswith("- [") and "](http" in line:
             # Extract Markdown link format: [name](url)
@@ -47,7 +47,7 @@ def create_bookmark_html(links_by_section, title):
         f"<TITLE>{escape(title)}</TITLE>",
         "<H1>{escape(title)}</H1>",
         "<DL><p>",
-        "  <DT><H3>Supreme Detection Engineer</H3>",
+        "  <DT><H3>Awesome SOC Analyst</H3>",
         "  <DL><p>"
     ]
 
