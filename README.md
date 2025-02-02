@@ -63,13 +63,13 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 - [MXToolbox Emails](https://mxtoolbox.com/NetworkTools.aspx?tab=Email) - DMARC. SPF, DKIM, Header Analyzer
 
 ### EXE Lookup
-- [EchoTrail](echotrail.io) - Look up information about known files using hash or process Name.
+- [EchoTrail](https://www.echotrail.io/insights) - Look up information about known files using hash or process Name.
 - [XCyclopedia](https://strontic.github.io/xcyclopedia/index) - Look up information about known exe files - hashes, known paths, metadata, other...
 
 ### Lookup Services
 - [IPVOID](https://www.ipvoid.com/) - IP, DNS , URL, Text Manipulation
 - [MXToolbox](https://mxtoolbox.com/) - Email, Network, DNS, Websites
-- [HackerTarrget](https://hackertarget.com/)
+- [HackerTarget](https://hackertarget.com/)
 - [ViewDNS](https://viewdns.info/)
 
 ### Fingerprinting
@@ -101,7 +101,7 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
  - [DNS History](https://dnshistory.org/) - Historical DNS records.
 
 ### MAC Lookup
-- [Wireshark OUI Lookup](https://www.wireshark.org/tools/oui-lookup.html)
+- [Wireshark OUI Lookup](https://www.wireshark.org/tools/oui-lookup.html) - Information about manufacturers.
 
 ### ASN
  - [ASN LookUp](https://asnlookup.com/)
