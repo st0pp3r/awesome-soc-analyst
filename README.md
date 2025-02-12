@@ -44,7 +44,7 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 
 ### IOC Lookups
 - [VirusTotal](https://www.virustotal.com/#/home/search) - URL, IP Address, Domain, Hash.
-- [Talos Intelligence](https://talosintelligence.com/) - IP, URL, Domain, Hash
+- [Cisco Talos Intelligence](https://talosintelligence.com/) - IP, URL, Domain, Hash
 - [AbuseIPDB](https://www.abuseipdb.com/) - IP Address, Subnet, Domain
 - [SpamHaus](https://check.spamhaus.org/) - IP, Domain, ASN, SBL, Email, Hash
 - [MalwareBazaar](https://bazaar.abuse.ch/browse/) - Hash
@@ -63,8 +63,8 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 - [MXToolbox Emails](https://mxtoolbox.com/NetworkTools.aspx?tab=Email) - DMARC. SPF, DKIM, Header Analyzer
 
 ### EXE Lookup
-- [EchoTrail](https://www.echotrail.io/insights) - Look up information about known files using hash or process Name.
-- [XCyclopedia](https://strontic.github.io/xcyclopedia/index) - Look up information about known exe files - hashes, known paths, metadata, other...
+- [EchoTrail](https://www.echotrail.io/insights) - Look up information about known files using hash or process name.
+- [XCyclopedia](https://strontic.github.io/xcyclopedia/index) - Look up information about known exe files - hashes, known paths, metadata, other.
 
 ### Lookup Services
 - [IPVOID](https://www.ipvoid.com/) - IP, DNS , URL, Text Manipulation
@@ -73,9 +73,9 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 - [ViewDNS](https://viewdns.info/)
 
 ### Fingerprinting
- - [ZoomEye](https://www.zoomeye.ai/)
  - [Censys](https://search.censys.io/)
  - [Shodan](https://www.shodan.io/)
+ - [ZoomEye](https://www.zoomeye.ai/)
  - [Onyphe](https://search.onyphe.io/)
  - [FOFA](https://en.fofa.info/)
 
@@ -121,6 +121,12 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
  - [deobfuscate.relative.im](https://deobfuscate.relative.im/) - JavaScript Deobfuscator.
  - [A-Packets PCAP Aalyzer](https://apackets.com/) - PCAP analyzer from A-Packets.
  - [URLEncoder](https://www.urlencoder.org/) - URL encoder and decoder.
+ - [explainshell.com](https://explainshell.com/) - Write down a command-line to see the help text that matches each argument
+ - [Crontab Guru](https://crontab.guru) - The quick and simple editor for cron schedule expressions.
+ - [Subnet Calculator](https://mxtoolbox.com/subnetcalculator.aspx) -  Enter a subnet range (CIDR) and see IP address information about that range.
+ - [EpochConverter](https://www.epochconverter.com/) - Epoch & Unix Timestamp Conversion Tools.
+ - [Cyberchef](https://cyberchef.org/) - Data transformation.
+ - [10 minute mail](https://10minutemail.com/) - Can be used for registrations.
 
 ### Resources
 - [MITRE ATT&CK®](https://attack.mitre.org/) - MITRE ATT&CK knowledge base of adversary tactics and techniques.
@@ -142,6 +148,8 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 
 ### Training
 - [LetsDefend SOC Analyst Path](https://app.letsdefend.io/path/soc-analyst-learning-path)
+- [TCM Security Security Operations (SOC) 101](https://academy.tcm-sec.com/p/security-operations-soc-101)
+- [TCM Security Security SOC Level 1 Live Training](https://certifications.tcm-sec.com/product/soc-level-1-live-training/)
 - [Security Blue Team L1](https://www.securityblue.team/certifications/blue-team-level-1)
 - [Security Blue Team L2](https://www.securityblue.team/certifications/blue-team-level-2)
 - [HackTheBox Academy SOC Analyst](https://academy.hackthebox.com/path/preview/soc-analyst)
@@ -155,8 +163,14 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 - [TCM Security Practical SOC Analyst Associate](https://certifications.tcm-sec.com/psaa/)
 - [CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
 - [CompTIA Security+](https://www.comptia.org/certifications/security)
+- [EC-Council Certified SOC Analyst](https://iclass.eccouncil.org/our-courses/certified-soc-analyst-csa)
+- [EC-Council Certified Incident Handler](https://iclass.eccouncil.org/our-courses/certified-incident-handler-ecih/)
+
+### Challenges
+-[Blue Team Labs Online](https://blueteamlabs.online/) - A gamified platform for defenders to practice their skills in security investigations and challenges covering; Incident Response, Digital Forensics, Security Operations, Reverse Engineering, and Threat Hunting.
 
 ### Podcasts
+- [Darknet Diaries](https://darknetdiaries.com/) - True stories from the dark side of the Internet.
 
 ### Twitter/X
 
