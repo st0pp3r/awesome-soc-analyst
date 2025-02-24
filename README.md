@@ -3,32 +3,6 @@
 
 Online resources related to the role of the SOC Analyst. I will include mostly resources that are tailored to the role of SOC Analyst and not the field of cyber security in general.
 
-## Contents
-
-- [Event Log References](#event-log-references) - Online vendor documentation and references for event logs. 
-- [Sandboxes](#sandboxes) - Online sandboxes to analyze malware behavior safely.  
-- [IOC Lookups](#ioc-lookups) - Services for checking indicators of compromise (IOCs) like hashes, domains, and IPs.  
-- [Emails](#emails) - Tools for investigating email headers.
-- [EXE Lookup](#exe-lookup) - Resources for checking executables..  
-- [Lookup Services](#lookup-services) - General lookup tools for domains, IPs, and other artifacts.  
-- [Fingerprinting](#fingerprinting) - Online fingerprinting services.  
-- [Scanning](#scanning) - Network scanning tools for reconnaissance.  
-- [URL Scan](#url-scan) - Services to analyze URLs and inspect web content.  
-- [DNS](#dns) - Tools for DNS resolution and tracking domain history.  
-- [MAC Lookup](#mac-lookup) - Lookup services for MAC addresses to identify device manufacturers.  
-- [ASN](#asn) - Tools for finding autonomous system numbers (ASNs) and related IP allocations.  
-- [Browser Extension](#browser-extension) - Security-focused browser add-ons for analysis and protection.  
-- [Hash](#hash) - Hashing tools.  
-- [Misc Tools](#misc-tools) - Various cybersecurity utilities that don’t fit into a specific category.  
-- [Resources](#resources) - Collections of useful cybersecurity websites, documents, and reference materials.  
-- [Blogs](#blogs) - Security-focused blogs with insights, analysis, and threat intelligence.  
-- [Newsletters](#newsletters) - Regular updates and summaries of cybersecurity trends and incidents.  
-- [Good Reads](#good-reads) - Interesting articles and reports related to cybersecurity.  
-- [Books](#books) - Recommended reading on cybersecurity, hacking, and digital forensics.  
-- [Training](#training) - Online courses, certifications, and training platforms for cybersecurity skills. 
-- [Podcasts](#podcasts) - Audio discussions on cybersecurity, hacking, and threat intelligence.  
-- [Twitter/X](#twitterx) - Security experts, researchers, and threat intelligence feeds to follow.  
-- [Interview Questions](#interview-questions) - Common cybersecurity interview questions and preparation resources.
 
 
 ### Sandboxes
@@ -94,6 +68,7 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 - [CheckPhish](https://checkphish.bolster.ai/) - Check if URL is phishing.
 - [PhishTank](https://phishtank.org/) - Check if URL is phishing
 - [HTTPStatus.io](https://httpstatus.io/) - Check URLs.
+- [Redirect Checker](https://redirect-checker.net/) - Shows redirects.
 
 ### DNS
  - [MXToolbox DNS](https://mxtoolbox.com/NetworkTools.aspx?tab=DNS) - DNS tools.
@@ -114,6 +89,9 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 ### Hash
  - [Hash Calculator](https://md5calc.com/hash) - Calculator for hashes.
 
+### Certificate
+- [crt.sh](https://crt.sh/) - Certificate Search
+
 ### Misc Tools
  - [WayBack Machine](https://web.archive.org/) - Historical search of pages.
  - [RedHunt Labs Online Paste Tools Lookup](https://redhuntlabs.com/online-ide-search/) - Lookup keywords on online paste sites like pastebin.
@@ -123,7 +101,7 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
  - [URLEncoder](https://www.urlencoder.org/) - URL encoder and decoder.
  - [explainshell.com](https://explainshell.com/) - Write down a command-line to see the help text that matches each argument
  - [Crontab Guru](https://crontab.guru) - The quick and simple editor for cron schedule expressions.
- - [Subnet Calculator](https://mxtoolbox.com/subnetcalculator.aspx) -  Enter a subnet range (CIDR) and see IP address information about that range.
+ - [MXToolbox Subnet Calculator](https://mxtoolbox.com/subnetcalculator.aspx) -  Enter a subnet range (CIDR) and see IP address information about that range.
  - [EpochConverter](https://www.epochconverter.com/) - Epoch & Unix Timestamp Conversion Tools.
  - [Cyberchef](https://cyberchef.org/) - Data transformation.
  - [10 minute mail](https://10minutemail.com/) - Can be used for registrations.
