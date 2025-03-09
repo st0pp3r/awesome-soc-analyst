@@ -4,7 +4,6 @@
 Online resources related to the role of the SOC Analyst. I will include mostly resources that are tailored to the role of SOC Analyst and not the field of cyber security in general.
 
 
-
 ### Sandboxes
 - [VirusTotal](https://www.virustotal.com/gui/home/search) - Analyze suspicious files, domains, IPs and URLs to detect malware and other breaches.
 - [Hybrid Analysis](https://www.hybrid-analysis.com/) - Free malware analysis service for the community that detects and analyzes unknown threats.
@@ -18,20 +17,21 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 
 ### IOC Lookups
 - [VirusTotal](https://www.virustotal.com/#/home/search) - URL, IP Address, Domain, Hash.
-- [Cisco Talos Intelligence](https://talosintelligence.com/) - IP, URL, Domain, Hash
-- [AbuseIPDB](https://www.abuseipdb.com/) - IP Address, Subnet, Domain
-- [SpamHaus](https://check.spamhaus.org/) - IP, Domain, ASN, SBL, Email, Hash
-- [MalwareBazaar](https://bazaar.abuse.ch/browse/) - Hash
-- [URLHaus](https://urlhaus.abuse.ch/browse/) - Domain, URL, Hash
-- [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - IP, URL, Hash
-- [ThreatFox IOC Database](https://threatfox.abuse.ch/browse/) - IP, Domain, URL, Hash
-- [GreyNoise](https://viz.greynoise.io/) - IP
-- [Pulsedive](https://pulsedive.com/analyze/) - IP, URL, Domain
-- [threatbook](https://threatbook.io/) - IP, Domain
-- [FortiGuard Labs](https://www.fortiguard.com/search) - IP, Domain, URL
-- [Spamhaus IP Reputation](https://www.spamhaus.org/ip-reputation/) and [Spamhaus Domain Reputation](https://www.spamhaus.org/domain-reputation/)
-- [Palo Alto URL](https://urlfiltering.paloaltonetworks.com/query/) - URL
-- [DOGGuard](https://app.docguard.io/) - Analyze files, Hashes and URLs.
+- [Cisco Talos Intelligence](https://talosintelligence.com/) - IP, URL, Domain, Hash.
+- [AbuseIPDB](https://www.abuseipdb.com/) - IP Address, Subnet, Domain.
+- [SpamHaus](https://check.spamhaus.org/) - IP, Domain, ASN, SBL, Email, Hash.
+- [MalwareBazaar](https://bazaar.abuse.ch/browse/) - Hash.
+- [URLHaus](https://urlhaus.abuse.ch/browse/) - Domain, URL, Hash.
+- [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - IP, URL, Hash.
+- [ThreatFox IOC Database](https://threatfox.abuse.ch/browse/) - IP, Domain, URL, Hash.
+- [GreyNoise](https://viz.greynoise.io/) - IP.
+- [Pulsedive](https://pulsedive.com/analyze/) - IP, URL, Domain.
+- [threatbook](https://threatbook.io/) - IP, Domain.
+- [FortiGuard Labs](https://www.fortiguard.com/search) - IP, Domain, URL.
+- [Spamhaus IP Reputation](https://www.spamhaus.org/ip-reputation/) - IP.
+- [Spamhaus Domain Reputation](https://www.spamhaus.org/domain-reputation/) - Domain.
+- [Palo Alto URL](https://urlfiltering.paloaltonetworks.com/query/) - URL.
+- [DOGGuard](https://app.docguard.io/) - URL, Hash.
 
 ### Emails
 - [MXToolbox Emails](https://mxtoolbox.com/NetworkTools.aspx?tab=Email) - DMARC. SPF, DKIM, Header Analyzer
@@ -40,64 +40,91 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 - [EchoTrail](https://www.echotrail.io/insights) - Look up information about known files using hash or process name.
 - [XCyclopedia](https://strontic.github.io/xcyclopedia/index) - Look up information about known exe files - hashes, known paths, metadata, other.
 
-### Lookup Services
+### Multifunctional Lookup Services
 - [IPVOID](https://www.ipvoid.com/) - IP, DNS , URL, Text Manipulation
 - [MXToolbox](https://mxtoolbox.com/) - Email, Network, DNS, Websites
 - [HackerTarget](https://hackertarget.com/)
 - [ViewDNS](https://viewdns.info/)
+- [IPVoid](https://www.ipvoid.com/)
 
 ### Fingerprinting
+
  - [Censys](https://search.censys.io/)
  - [Shodan](https://www.shodan.io/)
  - [ZoomEye](https://www.zoomeye.ai/)
  - [Onyphe](https://search.onyphe.io/)
  - [FOFA](https://en.fofa.info/)
 
-### Scanning
- - [MXToolbox Network Tools](https://mxtoolbox.com/NetworkTools.aspx?tab=Network) - Port status, ICMP, Trace.
- - [Hacker Target](https://hackertarget.com/) - Port scanner, Vulnerability scanner, Web scanner, CMS Scanner
+### Network Scanning
+ - [MXToolbox Network Tools](https://mxtoolbox.com/NetworkTools.aspx?tab=Network)
+ - [MXToolbox TCP Port Scan](https://mxtoolbox.com/TCPLookup.aspx)
+ - [MXToolbox Ping](https://mxtoolbox.com/PingLookup.aspx)
+ - [MXToolbox Traceroute](https://mxtoolbox.com/TraceRouteLookup.aspx)
+ - [HackerTarget](https://hackertarget.com/) - Port scanner, Vulnerability scanner, Web scanner, CMS Scanner.
+ - [HackerTarget Nmap Scanner](https://hackertarget.com/nmap-online-port-scanner/)
+ - [HackerTarget TCP Port Scan](https://hackertarget.com/tcp-port-scan/)
+ - [HackerTarget UDP Port Scan](https://hackertarget.com/udp-port-scan/)
+ - [HackerTarget Ping](https://hackertarget.com/test-ping/)
+ - [HackerTarget Traceroute](https://hackertarget.com/online-traceroute/)
+ - [DNSChecker Port Scanner](https://dnschecker.org/port-scanner.php) - Port scanner.
+
+### SSL Check
+- [HackerTarget SSL Check](https://hackertarget.com/ssl-check/)
+
+### Website Scan
+ - [HackerTarget Whatweb/Wappalyzer Scan](https://hackertarget.com/whatweb-scan/) - Website technology analyzer.
+ - [HackerTarget Dump Links](https://hackertarget.com/extract-links/) - Dump links from a website.
+
+### CMS Scan
+- [HackerTarget Wordpress Scan](https://hackertarget.com/wordpress-security-scan/)
+- [HackerTarget Joomla Scan](https://hackertarget.com/joomla-security-scan/)
+- [HackerTarget Drupal Scan](https://hackertarget.com/drupal-security-scan/)
 
 ### URL Scan
 - [VirusTotal](https://www.virustotal.com/#/home/search) - Scans provided URLs.
 - [urlscan.io](https://urlscan.io/) - Page source code, requests analysis.
 - [Cloudflare Radar URL Scan](https://radar.cloudflare.com/scan) - Gives you information about cookies, technology used, SSL certificates, headers and dns records and other.
-- [URLVoid](https://www.urlvoid.com/) - Reputation check
+- [URLVoid](https://www.urlvoid.com/) - Reputation check.
 - [URLQuery](https://urlquery.net/search) -  Very nice analysis of the the scanned URL along with reputation check.
 - [CyberGordon](https://cybergordon.com/) - Multiple engines scan.
 - [Tiny Scan](https://www.tiny-scan.com/) - Gives you information about cookies, technology used, SSL certificates, headers and dns records and other.
 - [CheckPhish](https://checkphish.bolster.ai/) - Check if URL is phishing.
-- [PhishTank](https://phishtank.org/) - Check if URL is phishing
+- [PhishTank](https://phishtank.org/) - Check if URL is phishing.
 - [HTTPStatus.io](https://httpstatus.io/) - Check URLs.
 - [Redirect Checker](https://redirect-checker.net/) - Shows redirects.
 
 ### DNS
- - [MXToolbox DNS](https://mxtoolbox.com/NetworkTools.aspx?tab=DNS) - DNS tools.
+ - [MXToolbox DNS Tools](https://mxtoolbox.com/NetworkTools.aspx?tab=DNS) - MXToolbox DNS tools.
+ - [DNSChecker DNS Tools](https://dnschecker.org/all-tools.php#dnsTool) - DNSChecker DNS Tools.
+ - [IPVoid Dig Lookup](https://www.ipvoid.com/dig-dns-lookup/) - Dig DNS Lookup.
  - [DNS Dumpster](https://dnsdumpster.com/) - DNS records.
  - [DNS History](https://dnshistory.org/) - Historical DNS records.
 
 ### MAC Lookup
-- [Wireshark OUI Lookup](https://www.wireshark.org/tools/oui-lookup.html) - Information about manufacturers.
+- [macaddress.io](https://macaddress.io) - Information about manufacturers.
+- [macvendors.com](https://macvendors.com) - Information about manufacturers.
+- [DNS Checker MAC Lookup](https://dnschecker.org/mac-lookup.php) - Information about manufacturers.
 
 ### ASN
  - [ASN LookUp](https://asnlookup.com/)
- - [Hacker Target ASN Lookup](https://hackertarget.com/as-ip-lookup/)
+ - [HackerTarget ASN Lookup](https://hackertarget.com/as-ip-lookup/)
  - [MXToolbox ASN Lookup](https://mxtoolbox.com/asn.aspx)
 
 ### Browser Extension
 - [CRXaminer](https://crxaminer.tech/) - Chrome extension analyzer.
 
-### Hash
- - [Hash Calculator](https://md5calc.com/hash) - Calculator for hashes.
-
 ### Certificate
 - [crt.sh](https://crt.sh/) - Certificate Search
+
+### Hash
+ - [Hash Calculator](https://md5calc.com/hash) - Calculator for hashes.
 
 ### Misc Tools
  - [WayBack Machine](https://web.archive.org/) - Historical search of pages.
  - [RedHunt Labs Online Paste Tools Lookup](https://redhuntlabs.com/online-ide-search/) - Lookup keywords on online paste sites like pastebin.
  - [de4js](https://lelinhtinh.github.io/de4js/) - JavaScript Deobfuscator and Unpacker.
  - [deobfuscate.relative.im](https://deobfuscate.relative.im/) - JavaScript Deobfuscator.
- - [A-Packets PCAP Aalyzer](https://apackets.com/) - PCAP analyzer from A-Packets.
+ - [A-Packets PCAP Analyzer](https://apackets.com/) - PCAP analyzer from A-Packets.
  - [URLEncoder](https://www.urlencoder.org/) - URL encoder and decoder.
  - [explainshell.com](https://explainshell.com/) - Write down a command-line to see the help text that matches each argument
  - [Crontab Guru](https://crontab.guru) - The quick and simple editor for cron schedule expressions.
@@ -113,6 +140,8 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 - [Speedguide.net Port Information](https://www.speedguide.net/ports.php) - Port information and common apps.
 
 ### Blogs
+ - [The DFIR Report](https://thedfirreport.com/) - Detailed and thorough analysis of real intrusions.
+ - 
 
 ### Newsletters
 
@@ -124,7 +153,7 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 - [Effective Threat Investigation for SOC Analysts: The ultimate guide to examining various threats and attacker techniques using security logs](https://www.packtpub.com/en-gr/product/effective-threat-investigation-for-soc-analysts-9781837634781)
 - [BTFM: Blue Team Field Manual](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X)
 
-### Training
+### Training and Certifications
 - [LetsDefend SOC Analyst Path](https://app.letsdefend.io/path/soc-analyst-learning-path)
 - [TCM Security Security Operations (SOC) 101](https://academy.tcm-sec.com/p/security-operations-soc-101)
 - [TCM Security Security SOC Level 1 Live Training](https://certifications.tcm-sec.com/product/soc-level-1-live-training/)
