@@ -118,6 +118,7 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 
 ### Hash
  - [Hash Calculator](https://md5calc.com/hash) - Calculator for hashes.
+ - [Hash Crack](https://crackstation.net/) - Cracking hashes online.
 
 ### Misc Tools
  - [WayBack Machine](https://web.archive.org/) - Historical search of pages.
@@ -141,7 +142,9 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 
 ### Blogs
  - [The DFIR Report](https://thedfirreport.com/) - Detailed and thorough analysis of real intrusions.
- - 
+ - [Bleeping Computer](https://www.bleepingcomputer.com/) - Cyber security news.
+ - [Dark Reading](https://www.darkreading.com/) - Cyber security news.
+ - [The Hacker News](https://thehackernews.com/) - Cyber security news.
 
 ### Newsletters
 
@@ -180,6 +183,7 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 - [Darknet Diaries](https://darknetdiaries.com/) - True stories from the dark side of the Internet.
 
 ### Twitter/X
+ - [Unit42](https://x.com/Unit42_Intel)
 
 ### Podcasts
 
