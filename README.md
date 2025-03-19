@@ -32,6 +32,8 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 - [Spamhaus Domain Reputation](https://www.spamhaus.org/domain-reputation/) - Domain.
 - [Palo Alto URL](https://urlfiltering.paloaltonetworks.com/query/) - URL.
 - [DOGGuard](https://app.docguard.io/) - URL, Hash.
+- [AlienVault](https://otx.alienvault.com) - IP, Domain, URL, Hash, FilePath, Email.
+- [Tor Metrics - ExoneraTor](https://metrics.torproject.org/exonerator.html) - The ExoneraTor service maintains a database of IP addresses that have been part of the Tor network.
 
 ### Emails
 - [MXToolbox Emails](https://mxtoolbox.com/NetworkTools.aspx?tab=Email) - DMARC. SPF, DKIM, Header Analyzer
@@ -46,6 +48,10 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 - [HackerTarget](https://hackertarget.com/)
 - [ViewDNS](https://viewdns.info/)
 - [IPVoid](https://www.ipvoid.com/)
+- [IPduh](https://ipduh.com/)
+- [SPUR](https://spur.us) - IP
+- [WhatMyUserAgent](https://whatmyuseragent.com/)
+- [Tor Metrics - Relay Search](https://metrics.torproject.org/rs.html#search)
 
 ### Fingerprinting
 
