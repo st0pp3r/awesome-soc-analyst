@@ -5,12 +5,19 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 
 ### Resources
 - [MITRE ATT&CK®](https://attack.mitre.org/) - MITRE ATT&CK knowledge base of adversary tactics and techniques.
-- [MITRE D3fend](https://d3fend.mitre.org/) - A knowledge of cybersecurity countermeasures
+- [MITRE D3fend](https://d3fend.mitre.org/) - A knowledge base of cybersecurity countermeasures
 - [Cyber Kill Chain | Lockheed Martin](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html) - Model for identification and prevention of cyber intrusions activity.
+- [Blue Team Notes | Purp1eW0lf](https://github.com/Purp1eW0lf/Blue-Team-Notes)
+
+### Reference
+- [CVE](https://cve.mitre.org/) - Vulnerability database.
 - [Speedguide.net Port Information](https://www.speedguide.net/ports.php) - Port information and common apps.
+- [Windows Logon Types](https://learn.microsoft.com/en-us/windows-server/identity/securing-privileged-access/reference-tools-logon-types)
+- [Microsoft Errors](https://login.microsoftonline.com/error)
 
 ### Blogs
  - [The DFIR Report](https://thedfirreport.com/) - Detailed and thorough analysis of real intrusions.
+ - [SOC Investigation](https://www.socinvestigation.com/)
  - [Bleeping Computer](https://www.bleepingcomputer.com/) - Cyber security news.
  - [Dark Reading](https://www.darkreading.com/) - Cyber security news.
  - [The Hacker News](https://thehackernews.com/) - Cyber security news.
@@ -45,11 +52,12 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 - [EC-Council Certified SOC Analyst](https://iclass.eccouncil.org/our-courses/certified-soc-analyst-csa)
 - [EC-Council Certified Incident Handler](https://iclass.eccouncil.org/our-courses/certified-incident-handler-ecih/)
 
-### Challenges
--[Blue Team Labs Online](https://blueteamlabs.online/) - A gamified platform for defenders to practice their skills in security investigations and challenges covering; Incident Response, Digital Forensics, Security Operations, Reverse Engineering, and Threat Hunting.
+### Challenges & Skills Development
+- [Blue Team Labs Online](https://blueteamlabs.online/) - A gamified platform for defenders to practice their skills in security investigations and challenges covering; Incident Response, Digital Forensics, Security Operations, Reverse Engineering, and Threat Hunting.
 
 ### Podcasts
 - [Darknet Diaries](https://darknetdiaries.com/) - True stories from the dark side of the Internet.
+- [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast)
 
 ### Twitter/X
  - [Unit42](https://x.com/Unit42_Intel)
@@ -58,6 +66,8 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 
 ### Interview Questions
 - [SOC Interview Questions | LetsDefend](https://github.com/LetsDefend/SOC-Interview-Questions)
+- [Interview Questions | socinvestigation.com](https://www.socinvestigation.com/soc-interview-questions-and-answers-cyber-security-analyst/)
+- [SOC Interview Questions | siemxpert.com](https://www.siemxpert.com/blog/soc-analyst-interview-question/)
 
 ### Tools
 
@@ -113,7 +123,6 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 - [Tor Metrics - Relay Search](https://metrics.torproject.org/rs.html#search)
 
 #### Fingerprinting
-
  - [Censys](https://search.censys.io/)
  - [Shodan](https://www.shodan.io/)
  - [ZoomEye](https://www.zoomeye.ai/)
@@ -196,6 +205,9 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
  - [Crontab Guru](https://crontab.guru) - The quick and simple editor for cron schedule expressions.
  - [MXToolbox Subnet Calculator](https://mxtoolbox.com/subnetcalculator.aspx) -  Enter a subnet range (CIDR) and see IP address information about that range.
  - [EpochConverter](https://www.epochconverter.com/) - Epoch & Unix Timestamp Conversion Tools.
- - [Cyberchef](https://cyberchef.org/) - Data transformation.
  - [10 minute mail](https://10minutemail.com/) - Can be used for registrations.
+ - [Cyberchef](https://cyberchef.org/) - Data transformation.
+ - [Regex101](https://regex101.com/) - Regex testing.
+ - [ChatGPT](https://chatgpt.com/) - Can be used to transform data.
+
 
