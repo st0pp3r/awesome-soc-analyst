@@ -9,20 +9,35 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 - [Cyber Kill Chain | Lockheed Martin](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html) - Model for identification and prevention of cyber intrusions activity.
 - [Blue Team Notes | Purp1eW0lf](https://github.com/Purp1eW0lf/Blue-Team-Notes)
 
-### Reference
+### References
 - [CVE](https://cve.mitre.org/) - Vulnerability database.
-- [Speedguide.net Port Information](https://www.speedguide.net/ports.php) - Port information and common apps.
-- [Windows Logon Types](https://learn.microsoft.com/en-us/windows-server/identity/securing-privileged-access/reference-tools-logon-types)
 - [Microsoft Errors](https://login.microsoftonline.com/error)
+- [Microsoft Entra authentication and authorization error codes](https://learn.microsoft.com/en-us/entra/identity-platform/reference-error-codes)
+- [Windows Logon Types](https://learn.microsoft.com/en-us/windows-server/identity/securing-privileged-access/reference-tools-logon-types)
+- [Windows Logon Failure Codes](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4625)
+- [Windows Security Log Event IDs Encyclopedia](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx?i=j)
+- [Command Line Referrence](https://ss64.com/) - Command line arguments explanations.
+- [Speedguide.net Port Information](https://www.speedguide.net/ports.php) - Port information and common apps.
+- [LOLBAS (Living Off The Land Binaries and Scripts)](https://lolbas-project.github.io/) - Collection of legitimate binaries and scripts abused by attackers.
+- [WTFBins](https://wtfbins.wtf/) - Binaries that behaves exactly like malware, except, somehow, they are not.
+- [LOLDrivers](https://loldrivers.io/) - Database of drivers used by adversaries to bypass security controls and carry out attacks.
+- [GTFOBins](https://gtfobins.github.io/) - Collection binaries that can be used to bypass local security restrictions in misconfigured systems.
+- [LOLRMM](https://lolrmm.io/) - Repository of Remote Monitoring and Management (RMM) software that attackers abuse.
+- [LOLOLFarm](https://lolol.farm/) - Database of LOL (Living Off The Land) techniques used.
 
 ### Blogs
  - [The DFIR Report](https://thedfirreport.com/) - Detailed and thorough analysis of real intrusions.
- - [SOC Investigation](https://www.socinvestigation.com/)
- - [Bleeping Computer](https://www.bleepingcomputer.com/) - Cyber security news.
+ - [This Week In 4n6](https://thisweekin4n6.com/) - Good catch all aggregator focused a lot on dfir.
+ - [SOC Investigation](https://www.socinvestigation.com/) - SOC related articles.
+ - [Bad Sector Labs](https://blog.badsectorlabs.com/) - Good catch all aggregator.
  - [Dark Reading](https://www.darkreading.com/) - Cyber security news.
+ - [Bleeping Computer](https://www.bleepingcomputer.com/) - Cyber security news.
  - [The Hacker News](https://thehackernews.com/) - Cyber security news.
 
 ### Newsletters
+- [Last Week in Security (LWiS)](https://blog.badsectorlabs.com/)
+- [CyberWeekly](https://cyberweekly.substack.com/)
+- [tl;dr sec](https://tldrsec.com/)
 
 ### Good Reads
 
@@ -33,6 +48,7 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 - [BTFM: Blue Team Field Manual](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X)
 
 ### Training and Certifications
+- [Blue Team Labs Online](https://blueteamlabs.online/) - A gamified platform for defenders to practice their skills in security investigations and challenges covering; Incident Response, Digital Forensics, Security Operations, Reverse Engineering, and Threat Hunting.
 - [LetsDefend SOC Analyst Path](https://app.letsdefend.io/path/soc-analyst-learning-path)
 - [TCM Security Security Operations (SOC) 101](https://academy.tcm-sec.com/p/security-operations-soc-101)
 - [TCM Security Security SOC Level 1 Live Training](https://certifications.tcm-sec.com/product/soc-level-1-live-training/)
@@ -43,6 +59,7 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 - [TryHackMe SOC Level 1 Training Path](https://tryhackme.com/r/path/outline/soclevel1)
 - [TryHackMe SOC Level 2 Training Path](https://tryhackme.com/r/path/outline/soclevel2)
 - [Constructing Defense](https://course.constructingdefense.com/constructing-defense)
+- [CyberDefenders CCD](https://cyberdefenders.org/blue-team-training/courses/certified-cyberdefender-certification/)
 - [SANS SEC401: Security Essentials - Network, Endpoint, and Cloud](https://www.sans.org/cyber-security-courses/security-essentials-network-endpoint-cloud/)
 - [SANS SEC504: Hacker Tools, Techniques, and Incident Handling](https://www.sans.org/cyber-security-courses/hacker-techniques-incident-handling/)
 - [OffSec SOC-200: Foundational Security Operations and Defensive Analysis](https://www.offsec.com/courses/soc-200/)
@@ -52,17 +69,22 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 - [EC-Council Certified SOC Analyst](https://iclass.eccouncil.org/our-courses/certified-soc-analyst-csa)
 - [EC-Council Certified Incident Handler](https://iclass.eccouncil.org/our-courses/certified-incident-handler-ecih/)
 
-### Challenges & Skills Development
-- [Blue Team Labs Online](https://blueteamlabs.online/) - A gamified platform for defenders to practice their skills in security investigations and challenges covering; Incident Response, Digital Forensics, Security Operations, Reverse Engineering, and Threat Hunting.
-
 ### Podcasts
 - [Darknet Diaries](https://darknetdiaries.com/) - True stories from the dark side of the Internet.
 - [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast)
 
 ### Twitter/X
- - [Unit42](https://x.com/Unit42_Intel)
-
-### Podcasts
+- [TheDFIRReport](https://x.com/TheDFIRReport)
+- [Unit42](https://x.com/Unit42_Intel)
+- [TheHackersNews](https://x.com/TheHackersNews)
+- [BleepinComputer](https://x.com/BleepinComputer)
+- [DarkWebInformer](https://x.com/DarkWebInformer)
+- [malwrhunterteam](https://x.com/malwrhunterteam)
+- [vxunderground](https://x.com/vxunderground)
+- [orange_8361](https://x.com/orange_8361)
+- [Cryptolaemus1](https://x.com/Cryptolaemus1)
+- [elasticseclabs](https://x.com/elasticseclabs)
+- [nextronresearch](https://x.com/nextronresearch)
 
 ### Interview Questions
 - [SOC Interview Questions | LetsDefend](https://github.com/LetsDefend/SOC-Interview-Questions)
@@ -119,7 +141,6 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 - [IPVoid](https://www.ipvoid.com/)
 - [IPduh](https://ipduh.com/)
 - [SPUR](https://spur.us) - IP
-- [WhatMyUserAgent](https://whatmyuseragent.com/)
 - [Tor Metrics - Relay Search](https://metrics.torproject.org/rs.html#search)
 
 #### Fingerprinting
@@ -186,6 +207,13 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 
 #### Browser Extension
 - [CRXaminer](https://crxaminer.tech/) - Chrome extension analyzer.
+
+#### User Agent
+- [WhatMyUserAgent](https://whatmyuseragent.com/)
+- [WhatIsMyBrowser](https://explore.whatismybrowser.com/useragents/parse/)
+
+#### USB and PCI
+ - [DeviceHunt](https://devicehunt.com/) - Find your device & driver from a massive database of PCI and USB devices.
 
 #### Certificate
 - [crt.sh](https://crt.sh/) - Certificate Search
