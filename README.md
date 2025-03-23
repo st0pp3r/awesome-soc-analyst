@@ -86,7 +86,7 @@ I will mostly include resources that are tailored as much as possible to the rol
  - [A Tour Inside a SOC Analyst Mind](https://hackdefendlabs.com/analysis/A-Tour-Inside-a-SOC-Analyst-Mind/)
 
 ### Newsletters
-- [Last Week in Security (LWiS)](https://blog.badsectorlabs.com/)
+- [Last Week in Security (LWiS)](https://subscribe.badsectorlabs.com/subscription/form)
 - [CyberWeekly](https://cyberweekly.substack.com/)
 - [tl;dr sec](https://tldrsec.com/)
 
