@@ -1,5 +1,5 @@
 # Awesome SOC Analyst [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-[![URL Check](https://github.com/st0pp3r/Awesome-SOC-Analyst/actions/workflows/url_check.yml/badge.svg)](https://github.com/st0pp3r/Awesome-SOC-Analyst/actions/workflows/url_check.yml/badge.svg) [![Create Bookmarks File](https://github.com/st0pp3r/Awesome-SOC-Analyst/actions/workflows/create_bookmarks.yml/badge.svg)](https://github.com/st0pp3r/Awesome-SOC-Analyst/actions/workflows/create_bookmarks.yml)
+[![URL Check](https://github.com/st0pp3r/awesome-soc-analyst/actions/workflows/url_check.yml/badge.svg)](https://github.com/st0pp3r/awesome-soc-analyst/actions/workflows/url_check.yml/badge.svg) [![Create Bookmarks File](https://github.com/st0pp3r/awesome-soc-analyst/actions/workflows/create_bookmarks.yml/badge.svg)](https://github.com/st0pp3r/Awesome-SOC-Analyst/actions/workflows/create_bookmarks.yml)
 
 Online resources for SOC Analysts. Resources related to incident investigation, blogs, newsletters, good reads, books, trainings, podcasts, Twitter/X accounts and a set of tools relevant to the role of SOC analyst. 
 The repo generates a bookmark file for easy import to your browser.
