@@ -24,28 +24,31 @@ def parse_markdown_to_links(markdown_file):
 
     for line in content.splitlines():
         line = line.strip()
+
         if line.startswith("### "):  # Main section
             current_section = line.lstrip("# ").strip()
             current_subsection = None  # Reset subsection when a new main section appears
             if current_section not in ["Contents"]:
-                links_by_section[current_section] = {}
+                links_by_section[current_section] = []  # Store as a list for direct links
+
         elif line.startswith("#### "):  # Subsection
             if current_section:
                 current_subsection = line.lstrip("# ").strip()
                 if current_subsection:
+                    if isinstance(links_by_section[current_section], list):
+                        links_by_section[current_section] = {}  # Convert section to a dictionary
                     links_by_section[current_section][current_subsection] = []
+
         elif line.startswith("- [") and "](http" in line:  # Link line
             matches = re.findall(r"\[([^\]]+)\]\((http[s]?://[^\)]+)\)", line)
             for match in matches:
                 if match:
                     url, name = match[1], match[0]
                     if current_section:
-                        if current_subsection:
+                        if current_subsection and isinstance(links_by_section[current_section], dict):
                             links_by_section[current_section][current_subsection].append((url, name))
                         else:
-                            if current_section not in links_by_section:
-                                links_by_section[current_section] = []
-                            links_by_section[current_section].append((url, name))
+                            links_by_section[current_section].append((url, name))  # Directly add to section
 
     # Sort links alphabetically within each section/subsection
     for section, content in links_by_section.items():
@@ -54,8 +57,10 @@ def parse_markdown_to_links(markdown_file):
                 content[subsection].sort(key=lambda x: x[1].lower())
         elif isinstance(content, list):
             content.sort(key=lambda x: x[1].lower())
-
+    
+    
     return links_by_section
+
 
 def create_bookmark_html(links_by_section, title):
     """Generate an HTML file for browser bookmarks with nested subsections."""
@@ -72,20 +77,21 @@ def create_bookmark_html(links_by_section, title):
 
     for section, content in links_by_section.items():
         html.append(f"    <DT><H3>{escape(section)}</H3>")
-        html.append("    <DL><p>")
-        
-        if isinstance(content, dict):  # It has subsections
+        html.append("    <DL><p>")  # Start section folder
+
+        if isinstance(content, dict):  # Section has subsections
             for subsection, links in content.items():
-                html.append(f"      <DT><H4>{escape(subsection)}</H4>")
-                html.append("      <DL><p>")
+                html.append(f"      <DT><H3>{escape(subsection)}</H3>")
+                html.append("      <DL><p>")   # Start subsection folder
                 for url, name in links:
                     html.append(f"        <DT><A HREF=\"{escape(url)}\">{escape(name)}</A>")
-                html.append("      </DL><p>")
-        elif isinstance(content, list):  # It only contains links
+                html.append("      </DL><p>")  # Close subsection folder
+        
+        elif isinstance(content, list):  # Section contains direct links
             for url, name in content:
                 html.append(f"      <DT><A HREF=\"{escape(url)}\">{escape(name)}</A>")
 
-        html.append("    </DL><p>")
+        html.append("    </DL><p>")  # Close section folder
 
     html.append("  </DL><p>")
     html.append("</DL><p>")
