@@ -11,7 +11,7 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 
 ### References
 - [CVE](https://cve.mitre.org/) - Vulnerability database.
-- [Microsoft Errors](https://login.microsoftonline.com/error)
+- [Microsoft Errors Search](https://login.microsoftonline.com/error)
 - [Microsoft Entra authentication and authorization error codes](https://learn.microsoft.com/en-us/entra/identity-platform/reference-error-codes)
 - [Windows Logon Types](https://learn.microsoft.com/en-us/windows-server/identity/securing-privileged-access/reference-tools-logon-types)
 - [Windows Logon Failure Codes](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4625)
@@ -24,6 +24,7 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 - [GTFOBins](https://gtfobins.github.io/) - Collection binaries that can be used to bypass local security restrictions in misconfigured systems.
 - [LOLRMM](https://lolrmm.io/) - Repository of Remote Monitoring and Management (RMM) software that attackers abuse.
 - [LOLOLFarm](https://lolol.farm/) - Database of LOL (Living Off The Land) techniques used.
+- [ADSecurity](https://adsecurity.org/?page_id=4031) - Attacks on Active Directory.
 
 ### Blogs
  - [The DFIR Report](https://thedfirreport.com/) - Detailed and thorough analysis of real intrusions.
@@ -38,8 +39,6 @@ Online resources related to the role of the SOC Analyst. I will include mostly r
 - [Last Week in Security (LWiS)](https://blog.badsectorlabs.com/)
 - [CyberWeekly](https://cyberweekly.substack.com/)
 - [tl;dr sec](https://tldrsec.com/)
-
-### Good Reads
 
 ### Books
 - [Blue Team Handbook: SOC, SIEM, and Threat Hunting](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898)
