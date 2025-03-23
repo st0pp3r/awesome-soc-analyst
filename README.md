@@ -1,5 +1,5 @@
 # Awesome SOC Analyst [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-[![URL Check](https://github.com/st0pp3r/Supreme-SOC-Analyst/actions/workflows/url_check.yml/badge.svg)](https://github.com/st0pp3r/Supreme-SOC-Analyst/actions/workflows/url_check.yml/badge.svg) [![Create Bookmarks File](https://github.com/st0pp3r/Supreme-SOC-Analyst/actions/workflows/create_bookmarks.yml/badge.svg)](https://github.com/st0pp3r/Supreme-SOC-Analyst/actions/workflows/create_bookmarks.yml)
+[![URL Check](https://github.com/st0pp3r/Awesome-SOC-Analyst/actions/workflows/url_check.yml/badge.svg)](https://github.com/st0pp3r/Awesome-SOC-Analyst/actions/workflows/url_check.yml/badge.svg) [![Create Bookmarks File](https://github.com/st0pp3r/Awesome-SOC-Analyst/actions/workflows/create_bookmarks.yml/badge.svg)](https://github.com/st0pp3r/Awesome-SOC-Analyst/actions/workflows/create_bookmarks.yml)
 
 Online resources for SOC Analysts. Resources related to incident investigation, blogs, newsletters, good reads, books, trainings, podcasts, Twitter/X accounts and a set of tools relevant to the role of SOC analyst. 
 The repo generates a bookmark file for easy import to your browser.
@@ -53,7 +53,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Windows Logon Types](https://learn.microsoft.com/en-us/windows-server/identity/securing-privileged-access/reference-tools-logon-types)
 - [Windows Logon Failure Codes](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4625)
 - [Windows Security Log Event IDs Encyclopedia](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx?i=j)
-- [Command Line Referrence](https://ss64.com/) - Command line arguments explanations.
+- [Command Line ](https://ss64.com/) - Command line arguments explanations.
 - [Speedguide.net Port Information](https://www.speedguide.net/ports.php) - Port information and common apps.
 - [LOLBAS (Living Off The Land Binaries and Scripts)](https://lolbas-project.github.io/) - Collection of legitimate binaries and scripts abused by attackers.
 - [WTFBins](https://wtfbins.wtf/) - Binaries that behaves exactly like malware, except, somehow, they are not.
