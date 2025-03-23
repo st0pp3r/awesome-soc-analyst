@@ -9,6 +9,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 **Contributions are welcome!**
 
 ## Contents
+
 - [Resources and Reference Material](#resources-and-reference-material) - Various reference materials, frameworks, and guidelines for cyber defense.
 - [Attack Reference Material](#attack-reference-material) - Attack-specific reference materials for understanding tactics, techniques, and procedures.
 - [Blogs](#blogs) - Blogs that offer valuable insights and updates in security and incident handling.
