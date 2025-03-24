@@ -64,11 +64,21 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [LOLOLFarm](https://lolol.farm/) - Database of LOL (Living Off The Land) techniques used.
 - [Email Headers IANA](https://www.iana.org/assignments/message-headers/message-headers.xhtml) - IANA Email headers reference.
 - [DKIM, DMARC, SPF](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified) - Simplified explanation of DKIM, DMARC, SPF.
+- [Kerberos Protocol | hackndo](https://en.hackndo.com/kerberos/) - Explanation of Keberos protocol.
+- [Service Principal Name (SPN) | hackndo](https://en.hackndo.com/service-principal-name-spn/) - Explanation of SPN.
 
 ### Attack Reference Material
-- [ADSecurity](https://adsecurity.org/?page_id=4031) - Attacks on Active Directory.
-- [Kerberoasting](https://adsecurity.org/?p=3458) - Explanation of kerberoasting attack.
-- [DCSync](https://adsecurity.org/?p=1729) - Explanation of DCSync attack.
+- [ADSecurity AD Attacks](https://adsecurity.org/?page_id=4031) - Attacks on Active Directory.
+- [Password Spraying | hackndo](https://en.hackndo.com/password-spraying-lockout/) - Explanation of password spraying.
+- [Pass-The-Hash | hackndo](https://en.hackndo.com/pass-the-hash/) - Explanation of pass the hash attack.
+- [Kerberoasting | adsecurity](https://adsecurity.org/?p=3458) - Explanation of kerberoasting attack.
+- [Kerberoasting | hackndo](https://en.hackndo.com/kerberoasting/) - Explanation of kerberoasting attack.
+- [Kerberos Unconstrained Delegation | hackndo](https://en.hackndo.com/constrained-unconstrained-delegation/) - Explanation of Kerberos unconstained delegation.
+- [AS_REP Roasting | hackndo](https://en.hackndo.com/kerberos-asrep-roasting/) - Explanation of as_rep roasting attack.
+- [Golden Ticket | hackndo](https://en.hackndo.com/kerberos-silver-golden-tickets/) - Explanation of golden ticket attack.
+- [Silver Ticket | hackndo](https://en.hackndo.com/kerberos-silver-golden-tickets/) - Explanation of silver ticket attack.
+- [Skeleton Key | adsecurity](https://adsecurity.org/?p=1255) - Explanation of Skeleton Key attack.
+- [DCSync | adsecurity](https://adsecurity.org/?p=1729) - Explanation of DCSync attack.
 - [DCShadow](https://www.dcshadow.com/) - Explanation of DCShadow attack.
 - [DNS Tunneling | unit42](https://unit42.paloaltonetworks.com/dns-tunneling-how-dns-can-be-abused-by-malicious-actors/) - Simple example of DNS tunneling and how it is abused.
 - [DNS DGA | cybereason](https://www.cybereason.com/blog/what-are-domain-generation-algorithms-dga) - Nice examples of DGA variants.
