@@ -136,7 +136,7 @@ I will mostly include resources that are tailored as much as possible to the rol
  - [The Hacker News](https://thehackernews.com/) - Cyber security news.
 
 ### Good Reads
- - [A Tour Inside a SOC Analyst Mind](https://hackdefendlabs.com/analysis/A-Tour-Inside-a-SOC-Analyst-Mind/)
+ - [A Tour Inside a SOC Analyst Mind | Ali Alwashali](https://hackdefendlabs.com/analysis/A-Tour-Inside-a-SOC-Analyst-Mind/)
 
 ### Newsletters
 - [Last Week in Security (LWiS)](https://subscribe.badsectorlabs.com/subscription/form)
