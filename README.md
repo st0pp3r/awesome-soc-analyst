@@ -180,6 +180,8 @@ I will mostly include resources that are tailored as much as possible to the rol
 ### Twitter/X
 - [TheDFIRReport](https://x.com/TheDFIRReport)
 - [Unit42](https://x.com/Unit42_Intel)
+- [malwrhunterteam](https://x.com/malwrhunterteam)
+- [abuse_ch](https://x.com/abuse_ch)
 - [elasticseclabs](https://x.com/elasticseclabs)
 - [nextronresearch](https://x.com/nextronresearch)
 - [TheHackersNews](https://x.com/TheHackersNews)
