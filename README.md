@@ -50,8 +50,8 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Cyber Kill Chain | Lockheed Martin](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html) - Model for identification and prevention of cyber intrusions activity.
 - [Blue Team Notes | Purp1eW0lf](https://github.com/Purp1eW0lf/Blue-Team-Notes)
 - [CVE](https://cve.mitre.org/) - Vulnerability database.
-- [Command Line ](https://ss64.com/) - Command line arguments explanations.
-- [Speedguide.net Port Information](https://www.speedguide.net/ports.php) - Port information and common apps.
+- [Command Line Arguments Docs| ss64](https://ss64.com/) - Command line arguments explanations.
+- [Port Information | Speedguide.net](https://www.speedguide.net/ports.php) - Port information and common apps.
 - [LOLBAS (Living Off The Land Binaries and Scripts)](https://lolbas-project.github.io/) - Collection of legitimate binaries and scripts abused by attackers.
 - [WTFBins](https://wtfbins.wtf/) - Binaries that behaves exactly like malware, except, somehow, they are not.
 - [LOLDrivers](https://loldrivers.io/) - Database of drivers used by adversaries to bypass security controls and carry out attacks.
@@ -180,6 +180,8 @@ I will mostly include resources that are tailored as much as possible to the rol
 ### Twitter/X
 - [TheDFIRReport](https://x.com/TheDFIRReport)
 - [Unit42](https://x.com/Unit42_Intel)
+- [elasticseclabs](https://x.com/elasticseclabs)
+- [nextronresearch](https://x.com/nextronresearch)
 - [TheHackersNews](https://x.com/TheHackersNews)
 - [BleepinComputer](https://x.com/BleepinComputer)
 - [DarkWebInformer](https://x.com/DarkWebInformer)
@@ -187,8 +189,6 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [vxunderground](https://x.com/vxunderground)
 - [orange_8361](https://x.com/orange_8361)
 - [Cryptolaemus1](https://x.com/Cryptolaemus1)
-- [elasticseclabs](https://x.com/elasticseclabs)
-- [nextronresearch](https://x.com/nextronresearch)
 
 ### Interview Questions
 - [SOC Interview Questions | LetsDefend](https://github.com/LetsDefend/SOC-Interview-Questions)
