@@ -189,6 +189,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [vxunderground](https://x.com/vxunderground)
 - [orange_8361](https://x.com/orange_8361)
 - [Cryptolaemus1](https://x.com/Cryptolaemus1)
+- [SOC List](https://x.com/i/lists/1903760692731056442)
 
 ### Interview Questions
 - [SOC Interview Questions | LetsDefend](https://github.com/LetsDefend/SOC-Interview-Questions)
