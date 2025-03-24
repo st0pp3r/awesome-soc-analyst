@@ -12,6 +12,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 
 - [Resources and Reference Material](#resources-and-reference-material) - Various reference materials, frameworks, and guidelines for cyber defense.
 - [Attack Reference Material](#attack-reference-material) - Attack-specific reference materials for understanding tactics, techniques, and procedures.
+- [Event Log References](#event-log-references) - Vendor documentation and references for event logs.
 - [Blogs](#blogs) - Blogs that offer valuable insights and updates in security and incident handling.
 - [Good Reads](#good-reads) - Recommended reading materials for expanding knowledge in cyber defense.
 - [Newsletters](#newsletters) - Newsletters that provide curated content and updates in the cyber security space.
@@ -49,11 +50,6 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Cyber Kill Chain | Lockheed Martin](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html) - Model for identification and prevention of cyber intrusions activity.
 - [Blue Team Notes | Purp1eW0lf](https://github.com/Purp1eW0lf/Blue-Team-Notes)
 - [CVE](https://cve.mitre.org/) - Vulnerability database.
-- [Microsoft Errors Search](https://login.microsoftonline.com/error)
-- [Microsoft Entra authentication and authorization error codes](https://learn.microsoft.com/en-us/entra/identity-platform/reference-error-codes)
-- [Windows Logon Types](https://learn.microsoft.com/en-us/windows-server/identity/securing-privileged-access/reference-tools-logon-types)
-- [Windows Logon Failure Codes](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4625)
-- [Windows Security Log Event IDs Encyclopedia](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx?i=j)
 - [Command Line ](https://ss64.com/) - Command line arguments explanations.
 - [Speedguide.net Port Information](https://www.speedguide.net/ports.php) - Port information and common apps.
 - [LOLBAS (Living Off The Land Binaries and Scripts)](https://lolbas-project.github.io/) - Collection of legitimate binaries and scripts abused by attackers.
@@ -82,6 +78,53 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [DCShadow](https://www.dcshadow.com/) - Explanation of DCShadow attack.
 - [DNS Tunneling | unit42](https://unit42.paloaltonetworks.com/dns-tunneling-how-dns-can-be-abused-by-malicious-actors/) - Simple example of DNS tunneling and how it is abused.
 - [DNS DGA | cybereason](https://www.cybereason.com/blog/what-are-domain-generation-algorithms-dga) - Nice examples of DGA variants.
+
+### Event Log References
+- [Windows Event IDs and Audit Policies](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/advanced-security-audit-policy-settings)
+- [Windows Security Log Event IDs Encyclopedia](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx?i=j)
+- [Windows Logon Types](https://learn.microsoft.com/en-us/windows-server/identity/securing-privileged-access/reference-tools-logon-types)
+- [Windows Logon Failure Codes](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4625)
+- [Azure SigninLogs Schema](https://learn.microsoft.com/en-us/azure/azure-monitor/reference/tables/signinlogs)
+- [Azure SigninLogs Risk Detection](https://learn.microsoft.com/en-us/graph/api/resources/riskdetection?view=graph-rest-1.0)
+- [AADSTS Error Codes](https://learn.microsoft.com/en-us/entra/identity-platform/reference-error-codes#aadsts-error-codes)
+- [Microsoft Errors Search](https://login.microsoftonline.com/error)
+- [Microsoft Entra authentication and authorization error codes](https://learn.microsoft.com/en-us/entra/identity-platform/reference-error-codes)
+- [Microsoft Defender Event IDs](https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus)
+- [Microsoft Defender for Cloud Alert References](https://learn.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference)
+- [Microsoft Defender for Identity Alert References](https://learn.microsoft.com/en-us/defender-for-identity/alerts-overview)
+- [Microsoft Defender XDR Schemas](https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-schema-tables)
+- [Microsoft DNS Debug Event IDs](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn800669(v=ws.11)#dns-logging-and-diagnostics-1)
+- [Sysmon Event IDs](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon#events)
+- [Cisco ASA Event IDs](https://www.cisco.com/c/en/us/td/docs/security/asa/syslog/b_syslog.html)
+- [Palo Alto PAN-OS Log Fields](https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-admin/monitoring/use-syslog-for-monitoring/syslog-field-descriptions)
+- [Palo Alto PAN-OS Threat Categories](https://docs.paloaltonetworks.com/advanced-threat-prevention/administration/threat-prevention/threat-signature-categories)
+- [Palo Alto PAN-OS Applications](https://applipedia.paloaltonetworks.com/)
+- [FortiGate FortiOS Log Types and Subtypes](https://docs.fortinet.com/document/fortigate/7.6.1/fortios-log-message-reference/160372/list-of-log-types-and-subtypes)
+- [FortiGate FortiOS Log Fields](https://docs.fortinet.com/document/fortigate/7.6.1/fortios-log-message-reference/357866/log-message-fields)
+- [FortiGate FortiGuard Encyclopedia](https://www.fortiguard.com/encyclopedia?type=ips)
+- [GCP Threat Detection Findings](https://cloud.google.com/security-command-center/docs/concepts-security-sources#threats)
+- [GuardDuty Finding Types](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-active.html)
+- [Barracuda Firewall Log Files Structure and Log Fields](https://campus.barracuda.com/product/cloudgenfirewall/doc/172623663/available-log-files-and-structure)
+- [Barracuda Web Security Gateway Log Fields](https://campus.barracuda.com/product/websecuritygateway/doc/168742383/syslog-and-the-barracuda-web-security-gateway/)
+- [Barracuda Web Application Firewall Log Format](https://campus.barracuda.com/product/webapplicationfirewall/doc/168312817/log-formats) and [Barracuda Web Application Firewall Log Formats](https://campus.barracuda.com/product/webapplicationfirewall/doc/168312823/exporting-log-formats)
+- [Check Point Firewall Log Fields](https://support.checkpoint.com/results/sk/sk144192)
+- [Cisco Umbrella Proxy Log Format](https://docs.umbrella.com/deployment-umbrella/docs/proxy-log-formats), [Cisco Umbrella DNS Log Format](https://docs.umbrella.com/deployment-umbrella/docs/dns-log-formats) and [Cisco Umbrella Content Categories](https://docs.umbrella.com/deployment-umbrella/docs/new-content-category-definitions)
+- [Cisco WSA Access Log Fields](https://www.cisco.com/c/en/us/td/docs/security/wsa/wsa11-0/user_guide/b_WSA_UserGuide/b_WSA_UserGuide_chapter_010111.html#con_1679851) and [Cisco WSA Filtering Categories](https://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/datasheet_C78-718442.html)
+- [Cisco ESA Log Types](https://www.cisco.com/c/en/us/td/docs/security/esa/esa15-0/user_guide/b_ESA_Admin_Guide_15-0/b_ESA_Admin_Guide_12_1_chapter_0100111.html)
+- [Juniper Junos OS Log Fields](https://www.juniper.net/documentation/us/en/software/junos/network-mgmt/topics/topic-map/system-logging-for-a-security-device.html)
+- [Imperva Log Fields](https://docs.imperva.com/bundle/cloud-application-security/page/more/log-file-structure.htm) and [Imperva Event Types](https://docs.imperva.com/bundle/v15.3-waf-system-events-reference-guide/page/63179.htm)
+- [Squid Log Fields and Log Types](https://wiki.squid-cache.org/SquidFaq/SquidLogs) and [Squid Log Format](https://wiki.squid-cache.org/Features/LogFormat)
+- [Suricata Log Format](https://docs.suricata.io/en/latest/output/eve/eve-json-format.html)
+- [ZScaler Web Log Format](https://help.zscaler.com/zia/nss-feed-output-format-web-logs), [ZScaler Firewall Log Format](https://help.zscaler.com/zia/nss-feed-output-format-firewall-logs), [ZScaler DNS Log Format](https://help.zscaler.com/zia/nss-feed-output-format-dns-logs) and [ZScaler URL Categories](https://help.zscaler.com/zia/about-url-categories).
+- [Broadcom Edge Secure Web Gateway (Bluecoat) Access Log Format](https://techdocs.broadcom.com/us/en/symantec-security-software/web-and-network-security/edge-swg/7-4/getting-started/page-help-administration/page-help-logging/log-formats.html) and [Broadcom Edge Secure Web Gateway (Bluecoat) Categories](https://sitereview.bluecoat.com/#/category-descriptions)
+- [Broadcom Endpoint Protection Manager Log Format](https://knowledge.broadcom.com/external/article/155205/external-logging-settings-and-log-event.html)
+- [SonicWall SonicOS Log Events Documentation](https://www.sonicwall.com/techdocs/pdf/sonicos-6-5-4-log-events-reference-guide.pdf)
+- [WatchGuard Fireware OS Log Format](https://www.watchguard.com/help/docs/fireware/12/en-US/log_catalog/12_11_Log-Catalog.pdf)
+- [Sophos Firewall Log Documentation](https://docs.sophos.com/nsg/sophos-firewall/19.5/PDF/SF-syslog-guide-19.5.pdf)
+- [Sophos Central Admin Events](https://docs.sophos.com/central/customer/help/en-us/ManageYourProducts/LogsReports/Logs/Events/EventTypes/index.html#runtime-detections)
+- [Apache Custom Log Format](https://httpd.apache.org/docs/2.4/mod/mod_log_config.html)
+- [IIS Log File Format](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms525807(v=vs.90))
+- [NGINX Access Log Format](https://nginx.org/en/docs/http/ngx_http_log_module.html#access_log)
 
 ### Blogs
  - [Bad Sector Labs](https://blog.badsectorlabs.com/) - Good catch all aggregator.
