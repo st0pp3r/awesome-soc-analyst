@@ -77,7 +77,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Silver Ticket | hackndo](https://en.hackndo.com/kerberos-silver-golden-tickets/) - Explanation of silver ticket attack.
 - [Skeleton Key | adsecurity](https://adsecurity.org/?p=1255) - Explanation of Skeleton Key attack.
 - [NTLM Relay | hackndo](https://en.hackndo.com/ntlm-relay/) - Explanation of NTLM Relay.
-- [LLMNR Poisoning(https://medium.com/@rymak/llmnr-poisoning-an-attack-on-the-active-directory-of-an-organization-9907bf0498ff)
+- [LLMNR Poisoning](https://medium.com/@rymak/llmnr-poisoning-an-attack-on-the-active-directory-of-an-organization-9907bf0498ff) - Explanation of LLMNR Poisoning.
 - [DCSync | adsecurity](https://adsecurity.org/?p=1729) - Explanation of DCSync attack.
 - [DCShadow](https://www.dcshadow.com/) - Explanation of DCShadow attack.
 - [DNS Tunneling | unit42](https://unit42.paloaltonetworks.com/dns-tunneling-how-dns-can-be-abused-by-malicious-actors/) - Simple example of DNS tunneling and how it is abused.
@@ -131,16 +131,17 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [NGINX Access Log Format](https://nginx.org/en/docs/http/ngx_http_log_module.html#access_log)
 
 ### Blogs
+ - [The DFIR Report](https://thedfirreport.com/) - Detailed and thorough analysis of real intrusions.
  - [Bad Sector Labs](https://blog.badsectorlabs.com/) - Good catch all aggregator.
  - [This Week In 4n6](https://thisweekin4n6.com/) - Good catch all aggregator focused a lot on dfir.
  - [SOC Investigation](https://www.socinvestigation.com/) - SOC related articles.
- - [The DFIR Report](https://thedfirreport.com/) - Detailed and thorough analysis of real intrusions.
  - [Dark Reading](https://www.darkreading.com/) - Cyber security news.
  - [Bleeping Computer](https://www.bleepingcomputer.com/) - Cyber security news.
  - [The Hacker News](https://thehackernews.com/) - Cyber security news.
 
 ### Good Reads
  - [A Tour Inside a SOC Analyst Mind | Ali Alwashali](https://hackdefendlabs.com/analysis/A-Tour-Inside-a-SOC-Analyst-Mind/)
+ - [Anton’s Alert Fatigue: The Study](https://medium.com/anton-on-security/antons-alert-fatigue-the-study-0ac0e6f5621c)
 
 ### Newsletters
 - [Last Week in Security (LWiS)](https://subscribe.badsectorlabs.com/subscription/form)
