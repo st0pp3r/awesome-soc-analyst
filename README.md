@@ -67,6 +67,8 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [ADSecurity AD Attacks](https://adsecurity.org/?page_id=4031) - Attacks on Active Directory.
 - [Password Spraying | hackndo](https://en.hackndo.com/password-spraying-lockout/) - Explanation of password spraying.
 - [Pass-The-Hash | hackndo](https://en.hackndo.com/pass-the-hash/) - Explanation of pass the hash attack.
+- [Over Pass-The-Hash](https://medium.com/r3d-buck3t/play-with-hashes-over-pass-the-hash-attack-2030b900562d) - Explanation of over pass the hash attack.
+- [Pass the ticket](https://dmcxblue.gitbook.io/red-team-notes-2-0/red-team-techniques/defense-evasion/t1550-use-alternate-authentication-material/pass-the-ticket) - Explanation of over pass the ticket attack.
 - [Kerberoasting | adsecurity](https://adsecurity.org/?p=3458) - Explanation of kerberoasting attack.
 - [Kerberoasting | hackndo](https://en.hackndo.com/kerberoasting/) - Explanation of kerberoasting attack.
 - [Kerberos Unconstrained Delegation | hackndo](https://en.hackndo.com/constrained-unconstrained-delegation/) - Explanation of Kerberos unconstained delegation.
@@ -74,6 +76,8 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Golden Ticket | hackndo](https://en.hackndo.com/kerberos-silver-golden-tickets/) - Explanation of golden ticket attack.
 - [Silver Ticket | hackndo](https://en.hackndo.com/kerberos-silver-golden-tickets/) - Explanation of silver ticket attack.
 - [Skeleton Key | adsecurity](https://adsecurity.org/?p=1255) - Explanation of Skeleton Key attack.
+- [NTLM Relay | hackndo](https://en.hackndo.com/ntlm-relay/) - Explanation of NTLM Relay.
+- [LLMNR Poisoning(https://medium.com/@rymak/llmnr-poisoning-an-attack-on-the-active-directory-of-an-organization-9907bf0498ff)
 - [DCSync | adsecurity](https://adsecurity.org/?p=1729) - Explanation of DCSync attack.
 - [DCShadow](https://www.dcshadow.com/) - Explanation of DCShadow attack.
 - [DNS Tunneling | unit42](https://unit42.paloaltonetworks.com/dns-tunneling-how-dns-can-be-abused-by-malicious-actors/) - Simple example of DNS tunneling and how it is abused.
@@ -145,7 +149,6 @@ I will mostly include resources that are tailored as much as possible to the rol
 
 ### Podcasts
 - [Darknet Diaries](https://darknetdiaries.com/) - True stories from the dark side of the Internet.
-- [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast)
 
 ### Books
 - [Blue Team Handbook: SOC, SIEM, and Threat Hunting](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898)
