@@ -135,6 +135,7 @@ I will mostly include resources that are tailored as much as possible to the rol
  - [Bad Sector Labs](https://blog.badsectorlabs.com/) - Good catch all aggregator.
  - [This Week In 4n6](https://thisweekin4n6.com/) - Good catch all aggregator focused a lot on dfir.
  - [SOC Investigation](https://www.socinvestigation.com/) - SOC related articles.
+ - [Elastic Security Labs](https://www.elastic.co/security-labs) - Good collection of malware analysis blogposts.
  - [Dark Reading](https://www.darkreading.com/) - Cyber security news.
  - [Bleeping Computer](https://www.bleepingcomputer.com/) - Cyber security news.
  - [The Hacker News](https://thehackernews.com/) - Cyber security news.
