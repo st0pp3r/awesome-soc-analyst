@@ -79,7 +79,6 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [NTLM Relay | hackndo](https://en.hackndo.com/ntlm-relay/) - Explanation of NTLM Relay.
 - [LLMNR Poisoning](https://medium.com/@rymak/llmnr-poisoning-an-attack-on-the-active-directory-of-an-organization-9907bf0498ff) - Explanation of LLMNR Poisoning.
 - [DCSync | adsecurity](https://adsecurity.org/?p=1729) - Explanation of DCSync attack.
-- [DCShadow](https://www.dcshadow.com/) - Explanation of DCShadow attack.
 - [DNS Tunneling | unit42](https://unit42.paloaltonetworks.com/dns-tunneling-how-dns-can-be-abused-by-malicious-actors/) - Simple example of DNS tunneling and how it is abused.
 - [DNS DGA | cybereason](https://www.cybereason.com/blog/what-are-domain-generation-algorithms-dga) - Nice examples of DGA variants.
 
