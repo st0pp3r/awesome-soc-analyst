@@ -321,8 +321,7 @@ I will mostly include resources that are tailored as much as possible to the rol
  - [DeviceHunt](https://devicehunt.com/) - Find your device & driver from a massive database of PCI and USB devices.
 
 #### EXE Lookup
-- [EchoTrail](https://www.echotrail.io/insights) - Look up information about known files using hash or process name.
-- [XCyclopedia](https://strontic.github.io/xcyclopedia/index) - Look up information about known exe files - hashes, known paths, metadata, other.\
+- [XCyclopedia](https://strontic.github.io/xcyclopedia/index) - Look up information about known exe files - hashes, known paths, metadata, other.
 
 #### Certificate
 - [crt.sh](https://crt.sh/) - Certificate Search
@@ -353,6 +352,5 @@ I will mostly include resources that are tailored as much as possible to the rol
  - [Text Mechanic](https://textmechanic.com/) - Text manipulation  (Remove duplicates, prefix, suffix, word count etc.).
  - [Text Fixer](https://www.textfixer.com/) - Text manipulation (Remove duplicates, prefix, suffix, word count etc.).
  - [Free Formatter](https://www.freeformatter.com/xml-formatter.html) - Formatter for XML, JSON, HTML.
- - [HTML Formatter](https://htmlformatter.com/) - Formatter for HTML.
  - [Diff Checker](https://www.diffchecker.com/) - Diff comparison.
  - [ChatGPT](https://chatgpt.com/) - Can be used to transform data.
