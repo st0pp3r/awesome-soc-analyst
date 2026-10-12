@@ -152,10 +152,11 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [Darknet Diaries](https://darknetdiaries.com/) - True stories from the dark side of the Internet.
 
 ### Books
-- [Blue Team Handbook: SOC, SIEM, and Threat Hunting](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898)
 - [Blue Team Handbook: Incident Response Edition](https://www.amazon.com/Blue-Team-Handbook-condensed-Responder/dp/1500734756)
-- [Effective Threat Investigation for SOC Analysts: The ultimate guide to examining various threats and attacker techniques using security logs](https://www.packtpub.com/en-gr/product/effective-threat-investigation-for-soc-analysts-9781837634781)
+- [Blue Team Handbook: SOC, SIEM, and Threat Hunting](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898)
 - [BTFM: Blue Team Field Manual](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X)
+- [Confronto Cibernético: Técnicas e táticas de enfrentamento e resposta a ameaças persistentes avançadas (APTs)](https://www.editorabrasport.com.br/index.php?route=product/product&product_id=1758) - Hiago Kin Levi's Portuguese-language book on detecting and responding to persistent threats.
+- [Effective Threat Investigation for SOC Analysts: The ultimate guide to examining various threats and attacker techniques using security logs](https://www.packtpub.com/en-gr/product/effective-threat-investigation-for-soc-analysts-9781837634781)
 
 ### Training and Certifications
 - [Blue Team Labs Online](https://blueteamlabs.online/) - A gamified platform for defenders to practice their skills in security investigations and challenges covering; Incident Response, Digital Forensics, Security Operations, Reverse Engineering, and Threat Hunting.
