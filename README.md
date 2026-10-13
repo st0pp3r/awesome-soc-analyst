@@ -353,4 +353,5 @@ I will mostly include resources that are tailored as much as possible to the rol
  - [Text Fixer](https://www.textfixer.com/) - Text manipulation (Remove duplicates, prefix, suffix, word count etc.).
  - [Free Formatter](https://www.freeformatter.com/xml-formatter.html) - Formatter for XML, JSON, HTML.
  - [Diff Checker](https://www.diffchecker.com/) - Diff comparison.
+ - [Compare Two Lists](https://comparetwolists.net/) - Compare lists for shared, missing, and duplicate values.
  - [ChatGPT](https://chatgpt.com/) - Can be used to transform data.
