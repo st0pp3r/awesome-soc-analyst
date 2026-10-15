@@ -138,6 +138,7 @@ I will mostly include resources that are tailored as much as possible to the rol
  - [Dark Reading](https://www.darkreading.com/) - Cyber security news.
  - [Bleeping Computer](https://www.bleepingcomputer.com/) - Cyber security news.
  - [The Hacker News](https://thehackernews.com/) - Cyber security news.
+ - [ICHI — Internet Cyber Health Index](https://ichi.global) - Free, source-transparent daily internet cyber-health barometer: aggregates cybersecurity news and open-source threat telemetry into a 0–100 index score for situational awareness.
 
 ### Good Reads
  - [A Tour Inside a SOC Analyst Mind | Ali Alwashali](https://hackdefendlabs.com/analysis/A-Tour-Inside-a-SOC-Analyst-Mind/)
