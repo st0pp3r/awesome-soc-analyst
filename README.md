@@ -250,6 +250,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 
 #### Fingerprinting
  - [Censys](https://search.censys.io/)
+ - [ShieldLabs](https://shieldlabs.ai/) - Device and visitor identification with bot detection, VPN/proxy/Tor risk signals and risk scoring for fraud investigations.
  - [Shodan](https://www.shodan.io/)
  - [ZoomEye](https://www.zoomeye.ai/)
  - [Onyphe](https://search.onyphe.io/)
