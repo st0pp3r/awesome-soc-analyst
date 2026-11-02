@@ -57,6 +57,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [LOLDrivers](https://loldrivers.io/) - Database of drivers used by adversaries to bypass security controls and carry out attacks.
 - [GTFOBins](https://gtfobins.github.io/) - Collection binaries that can be used to bypass local security restrictions in misconfigured systems.
 - [LOLRMM](https://lolrmm.io/) - Repository of Remote Monitoring and Management (RMM) software that attackers abuse.
+- [RMM Incident Response Runbook](https://izikipizi.github.io/nizlo-msp-operations-resources/rmm-incident-response-runbook-template.html) - Vendor-neutral 30-control checklist for assessing, containing, preserving evidence, recovering from, and documenting suspected RMM abuse.
 - [LOLOLFarm](https://lolol.farm/) - Database of LOL (Living Off The Land) techniques used.
 - [Email Headers IANA](https://www.iana.org/assignments/message-headers/message-headers.xhtml) - IANA Email headers reference.
 - [DKIM, DMARC, SPF](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified) - Simplified explanation of DKIM, DMARC, SPF.
