@@ -247,6 +247,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 - [ViewDNS](https://viewdns.info/)
 - [IPduh](https://ipduh.com/)
 - [SPUR](https://spur.us)
+- [ZoneBI](https://zonebi.com/en/?src=github-soc-analyst-en-01) - Domain lookup: DNS, SSL certificate, domain expiry, SPF/DKIM/DMARC and blocklist status in one check.
 
 #### Fingerprinting
  - [Censys](https://search.censys.io/)
